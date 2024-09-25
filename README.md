@@ -41,7 +41,7 @@ zoom_password=your_password
 invite_link=https://us04web.zoom.us/j/your_meeting_id?pwd=your_passcode
 display_name=Your Display Name
 ```
-Usage
+### Usage
 Open the script (zoominator.py) and set your Zoom credentials and meeting details in the zoominator-details.txt file as specified above.   
 
 Run the script:  
@@ -51,11 +51,11 @@ python zoominator.py
 ```
 Sit back and watch as the script logs you in and joins your meeting!  
 
-License  
+### License  
 This project is licensed under the MIT License - see the LICENSE file for details.  
 
-Contributing  
+### Contributing  
 Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.  
 
-Acknowledgments  
+### Acknowledgments  
 Inspired by the need for easier access to online classes and meetings during remote learning.  
