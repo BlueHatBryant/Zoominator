@@ -16,6 +16,7 @@ To run Zoominator, you will need:
 - Python 3.  
 - [Selenium](https://www.selenium.dev/documentation/en/) library  
 - [pytz](https://pypi.org/project/pytz/) library (for timezone handling)  
+- [pyautogui](https://pyautogui.readthedocs.io/en/latest/) library  
 - A web browser and its corresponding WebDriver (e.g., ChromeDriver for Google Chrome)  
 
 ## Installation  
@@ -28,12 +29,12 @@ To run Zoominator, you will need:
 ```
 Install the required libraries:  
 
-```pip install selenium pytz```    
+```pip install selenium pytz pyautogui```    
 Download the appropriate WebDriver for your browser and ensure it’s in your system’s PATH.  
 
 Create a file named zoominator-details.txt in the same folder as the script with the following format:  
 
-makefile  
+make a text file  
 ```bash 
 zoom_email=your_email@example.com
 zoom_password=your_password
