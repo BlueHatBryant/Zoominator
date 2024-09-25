@@ -14,9 +14,9 @@
 To run Zoominator, you will need:  
 
 - Python 3.  
-- [Selenium](https://www.selenium.dev/documentation/en/) library  
+- [Selenium](https://pypi.org/project/selenium/) library  
 - [pytz](https://pypi.org/project/pytz/) library (for timezone handling)  
-- [pyautogui](https://pyautogui.readthedocs.io/en/latest/) library  
+- [pyautogui](https://pypi.org/project/PyAutoGUI/) library  
 - A web browser and its corresponding WebDriver (e.g., ChromeDriver for Google Chrome)  
 
 ## Installation  
